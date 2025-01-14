@@ -1,5 +1,5 @@
 # CSS-FLEX-PROJECTS
-PROJECT-1
+# PROJECT-1
 James Consulting Website
 A responsive website for James Consulting, developed using HTML, CSS, and JavaScript. The website features a modern design with multiple sections such as About Us, Services, Projects, Testimonials, and Contact.
 Features
@@ -20,7 +20,7 @@ Download Swiper:
 Go to the Swiper official site and download the necessary files into the assets/swiper/ folder.
 Download FontAwesome:
 Go to FontAwesome and follow the instructions to add the necessary files in the assets/fontawesome/ folder.
-PROJECT - 2
+# PROJECT - 2
 Features
 •	Responsive Design: The layout of the website adjusts to various screen sizes using media queries for mobile, tablet, and desktop views.
 •	Font Awesome Icons: Icons for social media and services are incorporated using Font Awesome.
@@ -31,7 +31,7 @@ Technologies Used
 •	CSS: Used for styling the layout and design, with a focus on responsiveness through media queries.
 •	Font Awesome: Icons used throughout the website for enhanced visual appeal.
 •	Responsive Design: The website adapts to different screen sizes, ensuring usability on mobile, tablet, and desktop devices.
-PROJECT -3
+# PROJECT -3
 FLEX-PROJECT  is a modern, responsive website design developed using HTML, CSS, and FontAwesome icons. The project showcases a flexible layout with sections like a banner, icon cards, business solutions, about us, feedback form, testimonials, and a footer. It is designed to be mobile-friendly with responsive design adjustments for different screen sizes.
  Features
 Responsive Layout: Adjusts to desktop, tablet, and mobile screen sizes with the help of media queries.
@@ -47,7 +47,7 @@ HTML5: Structure of the webpage
 CSS3: Styling, Flexbox, Grid, and Media Queries for responsive design
 FontAwesome: Icons for services, navigation, and other elements
 Google Fonts (Lato): Custom font used throughout the site
-PROJECT - 4
+# PROJECT - 4
 Flex Project
 This is a responsive website built using HTML, CSS (with Flexbox), and FontAwesome for icons. The website features multiple sections including a banner, services, projects, clients, and a contact form. It's designed to be mobile-friendly and adapts to different screen sizes using media queries.
 Features
